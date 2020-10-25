@@ -1,0 +1,9 @@
+<application>
+  <component name="AbbreviationManager">
+    <abbreviations>
+      <action id="MainMenu">
+        <abbreviation name="Alt+A" />
+      </action>
+    </abbreviations>
+  </component>
+</application>
