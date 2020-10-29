@@ -1,0 +1,7 @@
+<keymap version="1" name="Eclipse copy" parent="Eclipse">
+  <action id="ActivatePaletteToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl p" />
+  </action>
+  <action id="FileChooser.TogglePathShowing" />
+  <action id="Print" />
+</keymap>
